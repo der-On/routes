@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": ""
+        "title": "Radroute vom 18.08.2013"
       },
       "geometry": {
         "type": "LineString",
