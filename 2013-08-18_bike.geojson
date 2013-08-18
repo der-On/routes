@@ -1339,6 +1339,84 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bei den Rohren links abbiegen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37009048461914,
+          51.29552471773458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diese Kreuzung ist recht unscheinbar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.411632537841797,
+          51.23266071462138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wollte hier eigentlich rechts, da ist die Straße aber dauerhaft überflutet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.412962913513184,
+          51.208469694645814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hier kommst du trocken nicht durch. Extrem viele Mücken!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.407233715057373,
+          51.207999187698825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wenn dir danach ist, kannst du hier eine Runde im Motocross-Park drehen. Ist lustig."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.448689937591553,
+          51.19940823011799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Einmal über'n Zaun."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.387149333953857,
+          51.21282501645725
+        ]
+      }
     }
   ]
 }
