@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Mittlere Laufstrecke",
-        "length": "8,92 km"
+        "length": "12 km"
       },
       "geometry": {
         "type": "LineString",
