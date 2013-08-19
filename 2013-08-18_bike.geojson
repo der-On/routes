@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Radroute vom 18.08.2013"
+        "title": "Radroute vom 18.08.2013",
+        "length": "63,57 km"
       },
       "geometry": {
         "type": "LineString",
