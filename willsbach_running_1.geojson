@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Willsbach running tour #1",
-        "length": "6.76 km",
+        "length": "6.76 km"
       },
       "geometry": {
         "type": "LineString",
